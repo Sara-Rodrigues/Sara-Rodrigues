@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Sara Rodrigues :woman_tecnologist:
+# Sara Rodrigues 
 
 ### Hello! 👋 Welcome to my profile
 
