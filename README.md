@@ -1,21 +1,14 @@
 
 
-<!--
-**Sara-Rodrigues/Sara-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
+# Sara Rodrigues
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Me aventurando no mundo da tecnologia desde 2019.
+Sou formada em Sistemas para Internet pela FIAP :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Sara Rodrigues 
-
-### Hello! 👋 Welcome to my profile
-
+ 
+ <br/> Atualmente estou participando de uma mentoria no Projeto do Zero ao Um da Maitha Tech para o Front-end (Html, Css, Javascript e React) para    desenvolver ainda mais minhas habilidades.
+ <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologia, UX/UI Design, arte, desenhos e livros
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-sararodriguessouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sararodriguessouza/)](https://www.linkedin.com/in/sararodriguessouza/) 
+| 
+[![Gmail Badge](mailto:sara.slcr67@gmail.com)
