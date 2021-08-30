@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Sara :)
 
 - 🔭 Hoje eu trabalho com front-end
-- 🌱 Estou estudando Vue.js e Javascript
+- 🌱 Estou estudando Vue.js, React e Javascript
 
 <div>
   <a href="https://github.com/Sara-Rodrigues">
